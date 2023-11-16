@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "654a356dd7b16527f8c18fc3"
+  },
+  "id": 1,
+  "name": "Pizza",
+  "category": 1,
+  "description": "Delicious Italian dish",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "654a35850f25d77ea2187076"
+  },
+  "id": 2,
+  "name": "Pinapple Pizza",
+  "category": 1,
+  "description": "You mama'd your last mia",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "654a35af9ff6d8865a355d71"
+  },
+  "id": 3,
+  "name": "Extra Extra Extra Cheese Pizza",
+  "category": 1,
+  "description": "Incoming heart attack",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "654a35eb440a499b4c9f5485"
+  },
+  "id": 4,
+  "name": "Pen Pinapple Apple Pen",
+  "category": 2,
+  "description": "I have a apple pen, I have pinapple pen, UH, Pen Pinapple Apple Pen!",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "654a363d76dc35fc4c99363e"
+  },
+  "id": 5,
+  "name": "Gin",
+  "category": 3,
+  "description": "The alchohol drink, not the framework",
+  "status": true
+}]
